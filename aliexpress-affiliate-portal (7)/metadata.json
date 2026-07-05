@@ -1,0 +1,6 @@
+{
+  "name": "AliExpress Affiliate Portal",
+  "description": "A professional AliExpress affiliate showcase with product search, category filters, wishlist management, dark mode, customizable affiliate tracking, and a static site exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
